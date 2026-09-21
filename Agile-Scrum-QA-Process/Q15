@@ -1,0 +1,33 @@
+#Agile testing pyramid
+
+            What:
+            Agile Testing Pyramid is a model that suggests having more tests at lower levels and fewer tests at higher levels.
+
+            Levels:
+
+                    UI / E2E Tests
+                ───────────────
+                    API / Service
+                ─────────────────
+                Unit Tests
+                ─────────────────────
+
+            From bottom → top:
+
+            Unit Tests: Most, fast and stable
+            API/Service Tests: Moderate
+            UI/E2E Tests: Fewer, slower and more expensive
+
+            Purpose:
+
+            Faster feedback
+            Reduce test execution time
+            Lower maintenance cost
+            Catch defects as early as possible
+
+            QA Role:
+            QA/SDET focuses on maintaining a good balance of API, UI, and automation coverage, rather than relying only on UI tests.
+
+            Interview Answer:
+
+            "The Agile Testing Pyramid recommends having a larger number of fast and reliable unit tests, a moderate number of API or service-level tests, and fewer UI or end-to-end tests. This provides faster feedback and reduces test execution and maintenance costs."

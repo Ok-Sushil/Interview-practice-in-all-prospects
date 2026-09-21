@@ -1,0 +1,33 @@
+#Product backlog vs sprint backlog
+
+
+
+| **Product Backlog**                             | **Sprint Backlog**                                             |
+| ----------------------------------------------- | -------------------------------------------------------------- |
+| Contains **all potential work** for the product | Contains work **selected for the current Sprint**              |
+| Managed/ordered by **Product Owner**            | Managed by **Developers**                                      |
+| Can change continuously                         | Changes as the team learns during the Sprint                   |
+| Contains features, enhancements, bugs, etc.     | Contains selected Product Backlog Items + plan to deliver them |
+| Product-level view                              | Sprint-level view                                              |
+
+
+
+        Simple Example
+
+        Product Backlog:
+
+        Login
+        Property Search
+        Property Filters
+        Payment
+        Notifications
+        Reports
+
+        Sprint Backlog:
+
+        Property Search
+        Property Filters
+        Related testing/automation tasks
+        Interview Answer
+
+        "The Product Backlog is the ordered list of all work that may be needed for the product, while the Sprint Backlog contains the Product Backlog Items selected for the current Sprint along with the team's plan for delivering them."

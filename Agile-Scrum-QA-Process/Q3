@@ -1,0 +1,11 @@
+#Scrum Roles: PO, SM, Dev Team
+
+        "Scrum has three accountabilities: Product Owner, Scrum Master, and Developers. The Product Owner is accountable for maximizing product value and managing the Product Backlog. The Scrum Master helps establish Scrum, facilitates the Scrum process, removes impediments, and coaches the team toward self-management and continuous improvement. Developers are responsible for creating a usable Increment that meets the Definition of Done. As a QA, I am part of the Developers accountability and contribute to quality throughout the Sprint rather than testing only at the end."
+
+        🔥 Senior QA follow-up they may ask
+
+        "Is QA part of the Scrum Team or separate from the development team?"
+
+        Strong answer:
+
+        "QA is part of the Scrum Team. In Scrum terminology, there isn't a separate QA team or a separate Development Team accountability. QA engineers are part of the Developers accountability and participate in the activities required to create a Done Increment."

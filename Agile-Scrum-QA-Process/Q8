@@ -1,0 +1,25 @@
+#What is a user story?
+
+            What:
+            A User Story is a short description of a requirement written from the user's/business perspective, describing what the user wants and why.
+
+            Format:
+
+            As a [user], I want [feature], so that [benefit].
+
+            Purpose:
+
+            Describe a requirement from the user's perspective
+            Help the team understand the expected functionality
+            Provide a basis for development and testing
+
+            Example:
+
+            As a user, I want to filter properties by price so that I can find properties within my budget.
+
+            QA Role:
+            QA uses the User Story + Acceptance Criteria to create test scenarios and validate the functionality.
+
+            Interview Answer:
+
+            "A User Story is a short description of a feature or requirement from the user's perspective. It explains what the user wants and the business value behind it. It is usually written as: As a user, I want something, so that I can achieve a particular benefit."

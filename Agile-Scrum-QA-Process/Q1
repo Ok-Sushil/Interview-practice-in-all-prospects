@@ -1,0 +1,59 @@
+#What is Agile methodology?
+
+Agile is a software development methodology/approach in which software is developed and delivered incrementally in small iterations, with continuous customer feedback, collaboration, and the ability to adapt to changing requirements.
+
+In simple terms:
+
+Agile means we don't build the entire product first and test it at the end. We develop, test, get feedback, and improve the product continuously in small iterations.
+
+Example
+
+Suppose we are building a real-estate application.
+
+Instead of:
+
+Requirement → Development of entire application → Testing → Release
+
+Agile works more like:
+
+Sprint 1 → Develop + Test → Demo/Feedback → Sprint 2 → Develop + Test → Demo/Feedback → ...
+
+For example:
+
+Sprint	Feature
+Sprint 1	Login/Signup
+Sprint 2	Property Search
+Sprint 3	Property Filters
+Sprint 4	Property Details
+Sprint 5	Favorites
+
+Key characteristics of Agile
+
+Iterative & incremental development
+Product is built in small increments.
+Continuous testing
+QA is involved throughout the development cycle, not only after development is complete.
+Customer collaboration
+Customer/stakeholder feedback is collected frequently.
+Responding to change
+Requirements can be changed or reprioritized based on business needs.
+Cross-functional team
+Developers, QA, Product Owner, Scrum Master, etc. collaborate closely.
+Frequent delivery
+Working software is delivered regularly.
+
+
+
+==
+
+
+#Sprint Review
+#Sprint Retrospective
+#What is a user story?
+#Definition of Done (DoD)
+#Product backlog vs sprint backlog
+#Story points estimation
+#Velocity tracking
+#Burndown charts
+#Acceptance criteria
+#Agile testing pyramid

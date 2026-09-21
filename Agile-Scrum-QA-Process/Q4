@@ -1,0 +1,40 @@
+#Sprint Planning — Purpose 🎯
+
+            Sprint Planning is the Scrum event where the Scrum Team decides what can be accomplished in the upcoming Sprint and how that work will be done.
+
+            Main purpose
+
+            The purpose is to establish three things:
+
+            Why? — Sprint Goal
+            What is the objective/value of this Sprint?
+            Example: "Enable users to search properties using advanced filters."
+            What? — Selected Product Backlog Items
+            Which stories/items should be taken into the Sprint?
+            The team considers priority, capacity, complexity, dependencies, and previous experience.
+            How? — Plan for delivering the work
+            Developers, including QA/SDET, discuss how they will accomplish the selected work.
+            This can include development approach, testing approach, automation, dependencies, test data, environments, etc.
+            Example from a QA perspective
+
+            Suppose the Sprint has a story:
+
+            "User should be able to filter properties by price range."
+
+            During Sprint Planning, QA may discuss:
+
+            Acceptance Criteria
+            Functional test scenarios
+            Boundary-value cases
+            API validation
+            UI automation requirements
+            Test data requirements
+            Dependencies
+            Environment availability
+            Regression impact
+
+            The team then decides whether the story can realistically be included in the Sprint.
+
+🎯 Interview-ready answer
+
+            "The purpose of Sprint Planning is to start the Sprint with a clear objective and a realistic plan. The Scrum Team discusses the Product Backlog, selects the work that can be taken into the Sprint based on priority and capacity, defines the Sprint Goal, and discusses how the selected work will be delivered. As a QA, I participate by understanding the acceptance criteria, identifying testing requirements, dependencies, test-data or environment needs, and providing input on the effort and risks involved."

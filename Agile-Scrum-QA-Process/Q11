@@ -1,0 +1,29 @@
+#Story Points Estimation
+
+What:
+Story Points are a relative measure of the effort and complexity required to complete a User Story.
+
+Consider:
+
+Complexity
+Amount of work
+Risk/uncertainty
+Dependencies
+
+Common scale:
+1, 2, 3, 5, 8, 13, 21
+
+Usually, teams use Planning Poker to estimate Story Points collaboratively.
+
+Example:
+
+Simple login validation → 2 points
+Property search with multiple filters → 5 points
+Complex payment integration → 8 points
+
+Important:
+Story Points are not directly equal to hours/days. They are used for relative estimation.
+
+Interview Answer:
+
+"Story Points are a relative estimation technique used to measure the effort, complexity, risk, and uncertainty involved in completing a User Story. The team usually estimates them collaboratively using techniques such as Planning Poker."

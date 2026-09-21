@@ -1,0 +1,22 @@
+#Sprint Retrospective
+
+What:
+Sprint Retrospective is a Scrum event held after the Sprint Review and before the next Sprint Planning where the team discusses how the Sprint went and how to improve.
+
+Purpose:
+
+Discuss what went well
+Identify what didn't go well
+Find areas for improvement
+Decide actionable improvements for the next Sprint
+
+QA Role:
+QA discusses testing challenges, defects, automation issues, process gaps, and suggestions for improvement.
+
+Interview Answer:
+
+"Sprint Retrospective is conducted at the end of the Sprint to inspect how the team worked and identify improvements. The team discusses what went well, what didn't go well, and agrees on actionable improvements for the next Sprint."
+
+Example:
+
+QA noticed regression testing was taking too long → team decides to increase automation coverage in the next Sprint.

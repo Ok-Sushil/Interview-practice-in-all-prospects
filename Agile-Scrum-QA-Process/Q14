@@ -1,0 +1,27 @@
+#Acceptance criteria
+
+        What:
+        Acceptance Criteria are the specific conditions that a User Story must satisfy to be accepted as complete.
+
+        Purpose:
+
+        Clearly define expected behavior
+        Remove ambiguity from requirements
+        Help Development understand what to build
+        Help QA create test scenarios
+
+        Example:
+        Story: User should be able to log in.
+
+        Acceptance Criteria:
+
+        Valid username + password → Login successful
+        Invalid password → Error message displayed
+        Empty fields → Validation message displayed
+
+        QA Role:
+        QA uses Acceptance Criteria as the basis for test scenarios and validation.
+
+        Interview Answer:
+
+        "Acceptance Criteria are a set of specific conditions that a User Story must meet to be accepted. They define the expected behavior of the feature and help both developers and QA understand when the story satisfies the business requirement."

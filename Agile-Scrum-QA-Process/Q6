@@ -1,0 +1,22 @@
+#Sprint Review
+
+                What:
+                Sprint Review is a Scrum event held at the end of the Sprint where the team inspects the Sprint outcome/Increment and gets feedback from stakeholders.
+
+                Purpose:
+
+                Demonstrate completed work
+                Get stakeholder/customer feedback
+                Discuss what was completed/not completed
+                Adapt the Product Backlog based on feedback
+
+                QA Role:
+                QA confirms that the completed stories meet the Definition of Done and supports the demonstration of the tested features.
+
+                Interview Answer:
+
+                "Sprint Review is conducted at the end of the Sprint to inspect the completed Increment and get feedback from stakeholders. Based on the feedback and current product needs, the Product Backlog may be adjusted for future work."
+
+                Example:
+
+                Team demonstrates the new Property Search Filter feature → PO/stakeholders give feedback → PO updates/prioritizes future backlog items.

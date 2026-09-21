@@ -1,0 +1,22 @@
+# Daily Stand-up
+
+            What:
+            Daily Stand-up is a 15-minute daily Scrum event where the team discusses progress toward the Sprint Goal and identifies blockers.
+
+            Purpose:
+
+            Track Sprint progress
+            Identify blockers
+            Coordinate with team
+            Adjust daily plan if required
+
+            QA Role:
+            QA shares testing progress, defects, risks, and blockers.
+
+            Interview Answer:
+
+            "Daily Stand-up is a 15-minute Scrum event conducted every working day. The purpose is to inspect progress toward the Sprint Goal, identify blockers, and coordinate the team's work for the day."
+
+            Example:
+
+            "Yesterday I completed API testing, today I'll start UI testing, and I'm blocked because the QA environment is unavailable."

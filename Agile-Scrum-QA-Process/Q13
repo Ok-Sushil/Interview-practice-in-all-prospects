@@ -1,0 +1,23 @@
+#Burndown charts
+
+        What:
+        Burndown Chart is a visual chart that shows the remaining work in a Sprint over time.
+
+        Purpose:
+
+        Track Sprint progress
+        See remaining work
+        Identify whether the team is on track
+        Identify delays or scope changes
+
+        Example:
+        Sprint starts with 40 Story Points → work gets completed → remaining points decrease toward 0.
+
+        Important:
+
+        X-axis: Time / Sprint days
+        Y-axis: Remaining work (usually Story Points or tasks)
+
+        Interview Answer:
+
+        "A Burndown Chart shows the amount of remaining work against the time remaining in a Sprint. It helps the team track Sprint progress and identify whether they are on track to achieve the Sprint Goal."

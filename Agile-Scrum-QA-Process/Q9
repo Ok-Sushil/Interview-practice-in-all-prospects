@@ -1,0 +1,29 @@
+#Definition of Done (DoD)
+        What:
+        Definition of Done is a shared checklist/criteria that defines when a User Story or Increment is considered complete and ready.
+
+        Purpose:
+
+        Ensure consistent quality
+        Define clear completion criteria
+        Avoid incomplete work being considered finished
+        Ensure the Increment meets the required quality standards
+
+        Typical DoD:
+
+        Development completed
+        Code reviewed
+        Unit/API/UI tests completed
+        QA testing completed
+        Critical defects fixed
+        Regression completed
+        Documentation updated if required
+        Acceptance Criteria satisfied
+
+        QA Role:
+        QA verifies that the story meets the DoD before considering it complete.
+
+        Interview Answer:
+
+        "Definition of Done is a shared set of criteria agreed by the Scrum Team that must be satisfied for a User Story or Increment to be considered complete. It ensures that the work is properly developed, tested, and meets the required quality standards."
+
